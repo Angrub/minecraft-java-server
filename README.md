@@ -1,7 +1,7 @@
 # Minecraft Java Server (1.21.5)
 Minecraft Java server configuration
 
-# Instructions (Debian)
+# Instructions
 
 ## Install dependencies
 
